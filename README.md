@@ -1,4 +1,4 @@
-# Foong-Foong-Pay-Me
+# README
 
 no UI yet,
 follow this link to configure firebase https://firebase.google.com/docs/android/setup?authuser=0
