@@ -30,6 +30,7 @@ public class Restaurant extends AppCompatActivity {
     int count=1;
     boolean t=true;
     Random rand=new Random();
+    int randNum;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -112,8 +113,9 @@ public class Restaurant extends AppCompatActivity {
     }
 
     private void selectRestaurant(){
-        int i=rand.nextInt(10);
-        tv.get(i).setTextColor(Color.RED);
+        tv.get(randNum).setTextColor(Color.BLACK);
+        randNum=rand.nextInt(9);
+        tv.get(randNum).setTextColor(Color.RED);
     }
 
 }
