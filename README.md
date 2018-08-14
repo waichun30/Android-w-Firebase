@@ -28,4 +28,6 @@ link back to the database
 develop -> Storage -> select the image -> right bottom -> file location -> download URL
 copy the link and paste to the database "image" 
 
-!!!
+uploaded 3 file : java, xml, gradle 
+
+use these 3 files !!!
