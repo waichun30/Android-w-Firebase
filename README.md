@@ -17,3 +17,15 @@ follow the sturcture format, the location is extra feature i plan to do, but not
 which will store the restaurant location and open the google map to display the location
 
 add more data !!!
+
+**********
+14/08
+
+add image 
+develop -> Storage -> upload
+
+link back to the database
+develop -> Storage -> select the image -> right bottom -> file location -> download URL
+copy the link and paste to the database "image" 
+
+!!!
