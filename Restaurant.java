@@ -1,5 +1,15 @@
 package com.example.waichun.restaurant;
 
+
+
+
+
+
+
+
+
+
+
 import android.content.Intent;
 import android.graphics.Color;
 import android.net.Uri;
@@ -40,7 +50,7 @@ public class Restaurant extends AppCompatActivity {
     private ArrayList<TextView> tv;
     private ArrayList<ImageView> iv;
 
-    private LinearLayout ll1;
+    private LinearLayout ll12;
     private LinearLayout ll2;
     private LinearLayout ll3;
 
